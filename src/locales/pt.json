@@ -25,6 +25,32 @@
       "text": "Atendimento presencial e online para todo Brasil"
     }
   },
+  "flashy": {
+    "miniTag": "Como podemos ajudar você",
+    "title": "Justiça, cálculos e defesa dos seus direitos",
+    "subtitle": "Do trabalhador ao advogado, oferecemos suporte completo para garantir que seus direitos sejam respeitados.",
+    "card1": {
+      "title": "Direito Trabalhista",
+      "text": "- Empregados com direitos trabalhistas desrespeitados;  <br/>- Pessoas recém-demitidas ou com contrato informal (sem CTPS anotada);  <br/>- Trabalhadores que não receberam verbas rescisórias, horas extras, FGTS, adicional de insalubridade ou periculosidade;  <br/>- Profissionais de baixa renda ou sem conhecimento jurídico sobre seus direitos.  <br/>",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card2": {
+      "title": "Cálculos Trabalhistas",
+      "text": "Especialista em cálculos trabalhistas judiciais e extrajudiciais com o uso do PJe-Calc, auxiliando advogados e empresas a obterem cálculos precisos e confiáveis.” <br/> <br/> <span class=\"text-bold\">Para advogados: </span> cálculos para petições iniciais, liquidação de sentença e impugnações. <br/> <span class=\"text-bold\">Para trabalhadores: </span> simulações de rescisão, verbas e diferenças salariais.<br/> <span class=\"text-bold\">Para empresas/contadores:</span>conferência de cálculos e passivos trabalhistas.  ",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card3": {
+      "title": "Direito do Consumidor",
+      "text": "DEFENDA SEUS DIREITOS DE CONSUMIDOR! <br/> <br/> - Produto com defeito?<br/> - Cobrança indevida – LIGHT – ÁGUA - TELEFONIA? <br/>- Atraso de vôo ou pacote de vôo e hotel não cumprido? <br/><br/> Você tem direito à reparação! Entre em contato e saiba como buscar seus direitos na Justiça.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    }
+  },
   "features": {
     "miniTag": "Áreas de Atuação",
     "title": "Soluções Jurídicas em Diversas Especialidades",

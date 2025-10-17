@@ -18,6 +18,7 @@ import UnderConstruction from "../components/interactives/UnderConstruction";
 import { useColorMode } from "../assets/context/ColorModeContext";
 import News from "../components/sections/News";
 import Testimonial from "../components/sections/lp01/Testimonials";
+import FlashySection from "../components/sections/FlashySection";
 
 export default function Index() {
   const showUnderConstruction = false;
@@ -64,6 +65,7 @@ export default function Index() {
         influencer={false}
         panoramica={false}
       />
+      <FlashySection />
 
       <Features
         colorMode={colorMode}
